@@ -1,0 +1,25 @@
+1) crear un proyecto en pycharm
+2) Crear en el proyecto un archivo llmado requirements.txt
+3)pega la informacion que la instructora te dara
+4)ejecuta el contenido:pip install -r requirements.txt
+Tarea
+5)crea un carpeta llamada flaskr
+6)crear dentro de ella dos archivos llamados:
+__init__.py
+App.py(Archivo de entrada de la aplicacion)
+7)agregamos el codigo dado por nuestra instructora en los archivos correspondientes
+8)En la carpeta flaskr creamos una carpeta llamada modelos
+9)dentro de la carpeta modelos creamos 2 archivos
+__inti__py
+modelos.py
+10)insertamos o pegamos el codigo dado por la instructora 
+11)creamos en el archivo modelos.py 
+12)creamos las clases dentro del archivo modelos.py d todas las entidades que se usaran, estas deben tener sus atributos y relaciones
+13)en el archivo app.py importamos flaskr y las clases del archivo modelos
+14)creamos la sintaxis para poder insertar un dato con sus atributos asi como tambien los consulte y guarde la informacion data
+15)Creamos un repositorio en git hub con 3 ramas
+Estructura(Ejercicio de hoy)
+Clases(definicion de una clase)
+una rama con el nombre que decees (debe tener el paso a paso de lo realizado hoy)
+16)Subir ejercicio a y los demas archivos en cada una de las ramas del repositorio en git hub
+Gracias =)
